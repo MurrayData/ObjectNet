@@ -1,6 +1,6 @@
 # ObjectNet
 
-An object oriented library to create neural networks in C++ written in 1993
+An object oriented library to create neural networks in C++ written on Valentine's Day in 1993
 
 | File | Description          |
 | ------- | ---------------- |
