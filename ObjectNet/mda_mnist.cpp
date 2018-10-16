@@ -347,7 +347,7 @@ int network::backprop(float *p) {
 /* MNIST Main Function                                                            */
 /****************************************************************************/
 
-main () {
+int main () {
   float inp[1000];
   int i,j,k;
   int train = 0;
