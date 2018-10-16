@@ -8,7 +8,7 @@ An object oriented library to create neural networks in C++ written on Valentine
 | **mdanet.h** | Header file for ObjectNet |
 | **mnist.zip** | Zipped version of MNIST stored as binary 32 floating point file (contains mnist.bin) |
 
-Additionally, the original 1993 paper describing experiences using the softtware has been included.
+Additionally, the original 1993 paper describing experiences using the software has been included.
 
 Input file is split every 5th record for validation.
 
