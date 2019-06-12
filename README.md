@@ -1,5 +1,5 @@
-# code
-General code samples
+# ObjectNet
+An object oriented framework library to create neural networks in C++. It was first released on Valentine's Day in 1993 and re-released in 2018 to celebrate its 25th anniversary.
 
 All free to use, modify etc under MIT licence
 
